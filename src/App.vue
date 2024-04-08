@@ -16,7 +16,7 @@
         <router-link :to="{ path: '/issue-list'}" class="custom-menu-item">Issues</router-link>
       </el-menu-item>
       <el-menu-item index="4">
-        <router-link :to="{ path: '/todo-issues'}" class="custom-menu-item">Todo Issues</router-link>
+        <router-link :to="{ path: '/todos-issue'}" class="custom-menu-item">Todo Issues</router-link>
       </el-menu-item>
     </el-menu>
 
